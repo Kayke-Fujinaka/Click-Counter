@@ -1,38 +1,38 @@
-# Click Counter
+<h1 align="center">🖱️ Click Counter</h1>
 
-<img src="./src/assets/img.png" alt="Um gif apresentando o projeto">
+<img src="./src/assets/img.png" alt="A gif introducing the project">
 
->  Um site que conta os clicks!
+> A website that counts clicks!
 
-Confira a aplicação: https://kayke-counterclick.netlify.app
+Check out the app: https://kayke-counterclick.netlify.app
 
-## :rocket: Tecnologias ##
+## :rocket: Technologies ##
 
-No projeto foram utilizadas as seguintes tecnologias:
+The following technologies were used in the project:
 
-- [ReactJs](https://pt-br.reactjs.org)  
+- [ReactJs](https://pt-br.reactjs.org)
 
-## 🤝 Colaboradores
+## 🤝 Collaborators
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Thanks to the following people who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="160px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="160px;" alt="Photo by Kayke Fujinaka on GitHub"/><br>
         <sub>
           <b>Kayke Fujinaka</b>
         </sub>
       </a>
-    </td>
+    </all>
   </tr>
 </table>
 
-## 📝 Licença
+## 📝 License
 
-Este projeto está sob licença. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
 
 &#xa0;
 
-<a href="#top">Volte para o topo</a>
+<a href="#top">Go back to top</a>
